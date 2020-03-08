@@ -30,9 +30,9 @@ body {
 }
 
 .square {
-  height: 60px;
-  width: 60px;
-  line-height: 60px;
+  height: 150px;
+  width: 150px;
+  line-height: 150px;
   margin: 5px;
   float: left;
   text-align: center;
